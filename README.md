@@ -6,4 +6,4 @@ Aspiring data scientist with a demonstrated history of scientific research and d
 Learning and developing software engineering skills.
 Currently expanding programming skills using Python and communicating with databases using SQL.
 
-*Note: Work in progress. Most of the projects displayed here need to be finelised and polished 💅 planning to do so as soon as I finalise my beautiful PhD thesis (also planing to upload the Stata .do files with the statistical analyses carried out for my research). 
+*Note: Work in progress. Most of the projects displayed here need to be finelised and polished 💅 planning to do so as soon as I finalise my PhD thesis (also planing to upload the Stata .do files with the statistical analyses carried out for my research). 
