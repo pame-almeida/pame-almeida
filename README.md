@@ -1,4 +1,4 @@
-Pamela Almeida (she/her)
+Pamela Almeida-Meza
 
 Epidemiology Doctoral student at UCL's Department of Behavioural Science and Health, funded by Alzheimer's Society. 
 Avid learner with a wide range of interests.
